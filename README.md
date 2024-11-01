@@ -19,7 +19,7 @@ When I'm not dreaming of cat life, I'm a [your role, e.g., developer, designer, 
 - Frameworks: [React, Nextjs]
   
 ### my stats... kinda like how many mice i've caught?
-![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=ltl2702))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltl2702)
 
 ### connect with me(ow)
 - [Facebook](https://www.facebook.com/n0care)
